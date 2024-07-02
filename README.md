@@ -21,7 +21,7 @@ The `search_with_pkg` function searches for a PkgConfig module and sets a variab
 
 ## Using ColorizedMessages.cmake
 
-The ColorizedMessages.cmake module allows printing colored messages in the terminal if running on a Linux system and the COLORIZED_MESSAGES option is enabled.
+The ColorizedMessages.cmake module allows printing colored messages in the terminal if running on a Linux system and the `COLORIZED_MESSAGES` option is enabled.
 
 ### Color Configuration
 
