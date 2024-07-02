@@ -27,6 +27,6 @@ The ColorizedMessages.cmake module allows printing colored messages in the termi
 
 - Colors are defined using numeric variables that simulate enumeration behavior `get_color_code Function`.
 
-- The get_color_code function retrieves the ANSI escape sequence corresponding to a color code `print_colored_message Macro`.
+- The `get_color_code` function retrieves the ANSI escape sequence corresponding to a color code `print_colored_message` Macro.
 
-- The print_colored_message macro prints a message in the specified color.
+- The `print_colored_message` macro prints a message in the specified color.
